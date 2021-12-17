@@ -1,0 +1,47 @@
+#feature .sec-feature{
+    padding-top: 30px;
+}
+#feature .web-content{
+   padding: 50px 0px;
+}
+#feature .web-content p{
+  text-align: justify;
+  padding: 20px 0px;
+  line-height: 30px;
+}
+
+#feature .web-image img{
+  max-width: 100%;
+  height: 400px;
+  float: right;
+}
+
+#feature .feature-image img{
+  max-width: 100%;
+  height: 400px;
+}
+
+
+#feature .web-bg{
+  background: linear-gradient(to right, #434343, #000000);
+}
+
+#feature .web-feature{    
+    color: #fff;
+    padding: 50px 0px;
+}
+#feature .web-feature p{    
+  color: #fff;
+  text-align: justify;
+  padding: 20px 0px;
+  line-height: 30px;
+}
+#feature .web-feature h2{
+  color: #fff;
+}
+
+@media only screen and (max-width: 450px){
+  #feature .web-content{
+      padding: 0px !important;
+   }
+}

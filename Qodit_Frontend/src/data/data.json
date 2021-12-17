@@ -1,0 +1,147 @@
+{
+    "Header": {
+
+        "title": "Our's Expert Work For You",
+        "paragraph": ""
+
+    },
+    "About": {
+        "paragraph": " Our success lies in your growth. We contribute towards the company’s growth to achieve their vision by leveraging our expertise and competencies so that together we can create a positive impact on society. Qodit Pvt Ltd is a growing software development & IT outsourcing company based in India. We are a ISO certified & acclaimed IT company. Founded  in 2019, with a mission to deliver quality services at minimal cost. Our deep expertise in infrastructure and applications management turns Your Ideas into reality.",
+        "Why": [
+            "Assured Services",
+            "Worldwide Clients",
+            "Next-Gen Technology Provider",
+            "It’s All About Technology"
+        ],
+        "Why2": [
+            "Creating ideas with passion ",
+            "On-Time",
+            "Reliable",
+            "Dedicated development team"
+        ]
+    },
+    "Services": [{
+            "icon": "fas fa-code",
+            "image":"img/Services/system.png",
+            "name": "Web Development",
+            "text": "We provide designing, coding, programming and modifying websites, from layout to function and according to a client's specifications. Strive to create visually appealing sites that feature user-friendly design and clear navigation."
+        },
+        {
+            "icon": "fas fa-cogs",
+            "image":"img/Services/system.png",
+            "name": "System Development",
+            "text": "We believe in developing applications that advance our clients digital strategies. We work with clients to build highly-customized applications and to shift their development practices to Agile."
+        },
+        {
+            "icon": "fas fa-chart-pie",
+            "image":"img/Services/system.png",
+            "name": "MVP Development",
+            "text": "Atlas Systems provides you with comprehensive Database Support services that take care of all your database support requirements. Our team of experts will work with you to recommend and perform every database support task ."
+        },
+        {
+            "icon": "fas fa-tools",
+            "image":"img/Services/system.png",
+            "name": "New Product Development",
+            "text": "Build, Deploy, and Manage Websites, Apps or Processes On AWS Secure, Reliable Network. Sign Up for a Free Account & Experience AWS Secure. Easily Manage Clusters."
+        },
+        {
+            "icon": "fas fa-cloud",
+            "image":"img/Services/system.png",
+            "name": "Cloud Services",
+            "text": "Cloud services are services available via a remote cloud computing server rather than an on-site server. These scalable solutions are managed by a third party and provide users with access to computing services such as analytics or networking via the internet."
+        },
+        {
+            "icon": "fas fa-database",
+            "image":"img/Services/system.png",
+            "name": "Data Engineering",
+            "text": "“Data” Engineers design and build pipelines that transform and transport data into a format wherein, by the time it reaches the Data Scientists or other end users, it is in a highly usable state."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "addressUsa": "1309 Coffeen Avenue 1200, Sheridan, WY 82801, USA",
+        "addressInd": "ED-3 Scheme no. 97 Ring Road, Near Robot Square,Indore MP (452016)",
+        "phone": " +1 (917) 628 2406",
+        "phoneInd":"+91 (731) 356 2005",
+        "email": "info@qodit.io",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com",
+        "linkedin": "linkedin.com"
+    },
+    "Features": [{
+            "icon": "fa fa-group",
+            "title": "Diverse Technology",
+            "text": "We listen to your ideas carefully, and execute them through provision of our customized web solutions. Always coming up with unique ways to enter the market is our core strategy!"
+        },
+        {
+            "icon": "fa fa-pencil-square-o",
+            "title": "Availability All Time",
+            "text": "We don’t just design, we build you a masterpiece, that brings the brightest colors of your brand to be displayed to your customers. It’s brilliant, it’s alluring, it’s flawless and it’s us!"
+        },
+        {
+            "icon": "fa fa-cogs",
+            "title": "Experienced Team",
+            "text": "You dream it, we develop it. Our passion is to bring your creative ideas to life with our innovative solutions and web skilled team. "
+        },
+        {
+            "icon": "fa fa-microchip",
+            "title": "Research & Development",
+            "text": "Making your identity stand out is our mission. With the most mind blowing marketing hacks, we make sure your brand wins everyone's hearts in the market."
+        }
+    ]
+
+  
+}

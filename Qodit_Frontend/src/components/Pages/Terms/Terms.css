@@ -1,0 +1,23 @@
+#terms .conditions3{
+  font-size: inherit;
+  margin: 100px;
+ }
+ 
+ #terms .conditions3 h2{
+  padding-top: 50px;
+}
+
+#terms .privacy-para{
+   width: 100%;
+}
+
+@media (max-width: 768px) {
+ #terms .conditions3{
+   font-size: inherit;
+   margin: 0px;
+  }
+  #terms .conditions3 h2{
+   padding-top: 90px;
+   margin: 0px !important;
+ }
+}
